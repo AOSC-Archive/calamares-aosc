@@ -1,0 +1,26 @@
+---
+componentName:  aosc
+
+strings:
+    productName:         AOSC OS
+    shortProductName:    AOSC OS
+    version:             3.2.1
+    shortVersion:        3.2.1
+    versionedName:       AOSC OS 3.2.1 "CyanFlame"
+    shortVersionedName:  AOSC OS 3.2.1
+    bootloaderEntryName: AOSC OS
+    productUrl:          https://aosc.io/
+    supportUrl:          https://github.com/AOSC-Dev/aosc-os-abbs/issues/
+    releaseNotesUrl:     https://aosc.io/
+
+images:
+    productLogo:         "aosc-os.png"
+    productIcon:         "aosc-os.png"
+    productWelcome:      "languages.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#292F34"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#292F34"
